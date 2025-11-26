@@ -41,7 +41,7 @@ Ruyue Xin is a Lecturer at the School of Artificial Intelligence, China Universi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS 2024</div><img src='images/fgcs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS 2024</div><img src='images/fgcc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A fine-grained robust performance diagnosis framework for run-time cloud applications](https://www.sciencedirect.com/science/article/pii/S0167739X24000591)
