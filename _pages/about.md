@@ -22,11 +22,11 @@ Ruyue Xin is a Lecturer at the School of Artificial Intelligence, China Universi
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
-# 🔥 News
+# 🔥 News {#news}
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by the ACM Computing Surveys (CSUR) (IF:28). 
 <!--- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. .-->
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CUSR 2025</div><img src='images/trustAI2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +84,7 @@ Ruyue Xin is a Lecturer at the School of Artificial Intelligence, China Universi
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. .-->
 
-# 📖 Educations
+# 📖 Educations {#educations}
 - *2019.09 - 2023.11*, Doctor, Computer Science, University of Amsterdam, Amsterdam, Netherlands. 
 - *2016.09 - 2019.06*, Master, System Analysis and Integration, Beijing Normal University, Beijing, China. 
 - *2012.09 - 2016.06*, Bachelor, Information Management and Information Systems, Communication University of China, Beijing, China. 
